@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm nnqpswphilip09670
 
-<!--
-**nnqpswphilip09670/nnqpswphilip09670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏒 🏊 🥊 🎨 Ready to work on virtual reality 🏒 🏊 🥊 🎨
 
-Here are some ideas to get you started:
+## About Me
+🥊 🏊 🥊 Fascinated by developer advocacy 🥊 🏊 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎧 🎯 🏑 Working on libraries 🎧 🎯 🏑
+
+### Fun Facts
+🎱 🏊 🚴 🎬 Improving my skills in open source 🎱 🏊 🚴 🎬
+
+---
+🎮 🥋 🎾 🎣 🏓 Thanks for visiting my profile! 🥋 🏑 🛶 🥊 🛼
